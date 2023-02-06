@@ -1,4 +1,4 @@
-package io.github.devdojointroducao;
+package io.github.felipelabs.DevDojoIntroduction;
 
 public class conditionalStructures {
 
