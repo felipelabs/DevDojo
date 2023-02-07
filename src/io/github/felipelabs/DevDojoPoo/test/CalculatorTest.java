@@ -8,5 +8,7 @@ public class CalculatorTest {
         calculator.sum();
         calculator.decrease();
         calculator.multiply(2, 3);
+        calculator.sumTwoNumbers(2,2);
+        System.out.println(calculator.decreaseTwo(100, 30));
     }
 }
